@@ -1,0 +1,137 @@
+JUnit version 4.12
+..E.E.E.E....E........E.E.E.E.E.E.E.E.E.E.E.E.E.E.E........
+Time: 0.114
+There were 20 failures:
+1) encodeTest11(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [-k, -c, a 
+ x, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit3545372126083706729/junit10106633919678016702.tmp]
+Original File: abcXYZ 
+New File Content: c 
+Output: 
+2) encodeTest12(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [-a, -k, -c, a 
+ x, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit15807092737335054276/junit8726127805237489075.tmp]
+Original File: Howdy Billy,
+I am going to take cs6300 and cs6400 next semester.
+Did you take cs 6300 last semester? I want to
+take 2 courses so that I will graduate Asap! 
+New File Content:  ,
+     x  x  .
+   x   ?   
+  x      ! 
+Output: 
+3) encodeTest13(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [-a, -k, -c,    bxh, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit1055679671720515742/junit2562566425101234388.tmp]
+Original File: abcXYZ 
+New File Content: x 
+Output: 
+4) encodeTest14(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [b 
+, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit514938052308393700/junit3158481025321811956.tmp]
+Original File: abcXYZ123ABCxyz 
+New File Content: ABCxyz123abcXYZ 
+Output: 
+5) encodeTest18(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [-r, -c, MS, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit1892950636196548503/junit7067203837109174239.tmp]
+Original File: abcXYZ 
+New File Content: abXYZ 
+Output: 
+6) encodeTest26(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [-k, -c, bx , /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit9947644952609187340/junit6322231507544256770.tmp]
+Original File: Howdy Billy,
+ 
+New File Content:  ,
+ 
+Output: 
+7) encodeTest27(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [-a, -k, -c, bx , /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit958459497253813329/junit2942010914343102299.tmp]
+Original File: ABC def RRRMS 66!! 
+New File Content: X   !! 
+Output: 
+8) encodeTest28(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [-a, -k, -c, bx , /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit13995206720291401434/junit6375402950004891327.tmp]
+Original File: abcXYZ123ABCxyz 
+New File Content: xX 
+Output: 
+9) encodeTest29(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [bx 
+, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit487073248937437108/junit4913680748048390343.tmp]
+Original File: Howdy Billy,
+ 
+New File Content: hOWDY bILLY,
+ 
+Output: 
+10) encodeTest30(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [bx , /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit2971035546718706901/junit13233615537374163665.tmp]
+Original File: abcdef 
+New File Content: ABCDEF 
+Output: 
+11) encodeTest31(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #1. 
+Arguments used: [-r, abc, -a, -10, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit13046700906857405317/junit7387306989018362870.tmp]
+Original File: abcXYZ123ABCxyz 
+New File Content: MLK123mlk 
+Output: 
+12) encodeTest32(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #2. 
+Arguments used: [-c, , /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit5645203431183410790/junit8949397156707063431.tmp]
+Original File: abcXYZ123ABCxyz 
+Throws Exception: java.lang.ArrayIndexOutOfBoundsException
+13) encodeTest33(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #3. 
+Arguments used: [-k, , /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit5700660348130301142/junit16185718081389321942.tmp]
+Original File: abcXYZ123ABCxyz 
+Throws Exception: java.lang.ArrayIndexOutOfBoundsException
+14) encodeTest34(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #5. 
+Arguments used: [-a, -a, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit12932065396338321839/junit12526627848583691478.tmp]
+Original File: abcXYZ123ABCxyz 
+New File Content: ABCxyz123abcXYZ 
+Output: 
+15) encodeTest35(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #6. 
+Arguments used: [-r, abcXYZ123ABCxyz, -c, a, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit13680140910218477736/junit12637534145074970946.tmp]
+Original File:  
+Throws Exception: java.lang.ArrayIndexOutOfBoundsException
+16) encodeTest36(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #7. 
+Arguments used: [-k, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit12638520413925352644/junit14638476621951434000.tmp]
+Original File: abcXYZ123ABCxyz 
+New File Content: abcX123ABCx 
+Output: 
+17) encodeTest37(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #8. 
+Arguments used: [-r, abcXYZ, -l, l, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit4415411219174496842/junit1883947108904630419.tmp]
+Original File: abcXYZ 
+Throws Exception: java.lang.NullPointerException
+18) encodeTest38(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #9. 
+Arguments used: [-c, ABCabc, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit16057235740014367244/junit4179793464382557128.tmp]
+Original File: abcXYZ123ABCxyz 
+New File Content: abcXYZ123ABCxyz 
+Output: 
+19) encodeTest39(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #10. 
+Arguments used: [, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit1362225535493333600/junit12588505944910212838.tmp]
+Original File: abcXYZ123ABCxyz 
+Throws Exception: java.lang.ArrayIndexOutOfBoundsException
+20) encodeTest1(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [12345x, /var/folders/9n/4_0dfkqx26g9d39l31c1bnf00000gn/T/junit8884143170285488365/junit4567461084215042634.tmp]
+Original File: abcXYZ123ABCxyz 
+New File Content: ABCxyz123abcXYZ 
+Output: 
+
+FAILURES!!!
+Tests run: 39,  Failures: 20
+

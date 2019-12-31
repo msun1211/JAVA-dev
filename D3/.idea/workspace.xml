@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66470e42-665e-4e00-8ce8-c31fc7e9b88e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1TyQTA81J15mBHQAehNLxBzsZAM" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyMainTest.encodeTest39">
+    <configuration name="MyMainTest.encodeTest35" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MyMainTest" />
+      <option name="METHOD_NAME" value="encodeTest35" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMainTest.encodeTest36" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MyMainTest" />
+      <option name="METHOD_NAME" value="encodeTest36" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMainTest.encodeTest37" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MyMainTest" />
+      <option name="METHOD_NAME" value="encodeTest37" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMainTest.encodeTest38" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MyMainTest" />
+      <option name="METHOD_NAME" value="encodeTest38" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMainTest.encodeTest39" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MyMainTest" />
+      <option name="METHOD_NAME" value="encodeTest39" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyMainTest.encodeTest39" />
+        <item itemvalue="JUnit.MyMainTest.encodeTest38" />
+        <item itemvalue="JUnit.MyMainTest.encodeTest37" />
+        <item itemvalue="JUnit.MyMainTest.encodeTest36" />
+        <item itemvalue="JUnit.MyMainTest.encodeTest35" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66470e42-665e-4e00-8ce8-c31fc7e9b88e" name="Default Changelist" comment="" />
+      <created>1574429860566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574429860566</updated>
+      <workItem from="1574429863366" duration="7262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
